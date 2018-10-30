@@ -1,0 +1,5 @@
+Abstract: 
+Access network intrusion detection (ANID) is an indispensable role in guaranteeing information security, where data-classification is a key operating procedure. We propose an algorithm of the developed density peak clustering with support vector data description (DDPC-SVDD) to break through the bottleneck of processing high dimensional data with non-uniform density. The cut-off distance (dc) depending on experience in density peak clustering (DPC) is optimized by our defined coefficient called adjusted silhouette coefficient (ASIL). This can overcome the unfitness of traditional silhouette coefficient (SIL) to multi-noise samples and clustering instability. In order to generate the accurate classifier, an improved particle swarm optimization algorithm (PSO) evolves the parameters of support vector data description (SVDD). The proposed algorithm is evaluated through UCI standard datasets and KDD 99 datasets and results show higher accuracy and robustness with respect to the conventional ones.
+
+Keywords:
+Access network intrusion detection; Density peak clustering; Support vector data description; Silhouette coefficient
